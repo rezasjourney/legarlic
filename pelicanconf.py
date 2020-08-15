@@ -39,3 +39,9 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# Verifications
+CLAIM_GOOGLE = '6ho4hpO2NGsCnHpTJs1b8RRdIqFk7dW3sP1ejcFXbiE'
+
+# Analytics
+GOOGLE_ANALYTICS = u'UA-175458697-1'
