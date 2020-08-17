@@ -32,6 +32,9 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('@rezasjourney', 'https://twitter.com/rezasjourney'),)
 
+# Menu items
+MENUITEMS = (('Learn about Grover', 'https://rowanzellers.com/grover/'),)
+
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
