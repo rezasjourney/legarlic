@@ -3,7 +3,7 @@ Date: 2020-08-14 21:21
 Category: Politics
 Authors: Ada Cyberson
 
-![]({attach}images/visuals-S2wnPueyJx4-unsplash.jpg)
+![image]({attach}images/visuals-S2wnPueyJx4-unsplash.jpg)
 *Photo by visuals on Unsplash*
 
 

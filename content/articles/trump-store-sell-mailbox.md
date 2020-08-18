@@ -3,7 +3,7 @@ Date: 2020-08-14 20:01
 Category: Politics
 Authors: Ada Cyberson
 
-![]({attach}images/emily-austin-TcPIK2ZANOI-unsplash.jpg)
+![image]({attach}images/emily-austin-TcPIK2ZANOI-unsplash.jpg)
 *Photo by Emily Austin on Unsplash*
 
 

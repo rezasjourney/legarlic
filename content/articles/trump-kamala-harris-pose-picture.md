@@ -3,7 +3,7 @@ Date: 2020-08-14 21:30
 Category: Politics
 Authors: Ada Cyberson
 
-![]({attach}images/annie-spratt-zCgEsdlLNnk-unsplash.jpg)
+![image]({attach}images/annie-spratt-zCgEsdlLNnk-unsplash.jpg)
 *Photo by Annie Spratt on Unsplash*
 
 
